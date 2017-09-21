@@ -5,3 +5,5 @@ Now I begin to learn C language; fight!!    :)
 继续学习git，这次要多学一点。
 Git is a distributed version control system.
 Git is free software.
+
+so want to Fxxx.       …… 
